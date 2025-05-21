@@ -1,4 +1,4 @@
-Внимание надо чтобы стоял curl новой версии, или редактировать файлы sh в хулперах!!!
+Внимание надо чтобы стоял curl новой версии, или редактировать файлы sh в хелперах!!!
 # osmocom network in docker container
 
 as simple as `docker compose up`
